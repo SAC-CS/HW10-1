@@ -28,3 +28,5 @@ public class Dice {
 	}
 	
 }
+
+// Win/lost count should be inside the class, Adrian.  Please also try to implement toString
